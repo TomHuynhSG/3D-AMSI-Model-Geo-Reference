@@ -1,5 +1,7 @@
 # 3D-building-model-geo-reference
-![intro gif](https://i.imgur.com/NInKtAV.gif)
+
+<img src="https://i.imgur.com/NInKtAV.gif" height="600" />
+
 
 A geo-reference project to 3D model [Australian Mathematical Sciences Institute (AMSI)](https://amsi.org.au/) building and geographically map it on the Google map.
 
