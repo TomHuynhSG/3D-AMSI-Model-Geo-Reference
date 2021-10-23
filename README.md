@@ -1,4 +1,4 @@
-# 3D-building-model-geo-reference
+# 3D-AMSI-model-geo-reference
 
 ![intro](https://github.com/TomHuynhSG/3D-building-model-geo-reference/blob/main/assets/3D-screenshots.gif?raw=true)
 
