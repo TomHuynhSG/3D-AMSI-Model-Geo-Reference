@@ -31,4 +31,4 @@ Here is the location of the AMSI building on the Google Map:
 
 ![google map](https://i.imgur.com/YcdvZgM.png)
 
-The 3D model is created on SketchUp with the geolocation information on the github repo for your reference.
+Note: The file (3D-model-with-geo-info.skp) is the 3D SketchUp model of AMSI with the geolocation information in the repo for your reference.
