@@ -32,3 +32,7 @@ Here is the location of the AMSI building on the Google Map:
 ![google map](https://i.imgur.com/YcdvZgM.png)
 
 Note: The file (3D-model-with-geo-info.skp) is the 3D SketchUp model of AMSI with the geolocation information in the repo for your reference.
+
+## 🏆 Author
+- Huynh Nguyen Minh Thong - tomhuynhsg@gmail.com
+
